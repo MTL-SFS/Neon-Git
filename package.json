@@ -1,0 +1,14 @@
+{
+  "name": "mtl-neon-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3",
+    "quick.db": "^9.0.6"
+  }
+}
